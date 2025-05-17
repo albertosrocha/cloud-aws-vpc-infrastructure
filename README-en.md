@@ -1,4 +1,4 @@
-🇺🇸 English | [🇧🇷 Português](./README.md)
+**🇺🇸 English** | [🇧🇷 Português](./README.md)
 
 # AWS VPC Infrastructure with Terraform
 
